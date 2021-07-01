@@ -1,0 +1,9 @@
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\bin\Debug\netstandard2.0\Raimun.DataAccessLayer.deps.json
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\bin\Debug\netstandard2.0\Raimun.DataAccessLayer.dll
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\obj\Debug\netstandard2.0\Raimun.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\obj\Debug\netstandard2.0\Raimun.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\bin\Debug\netstandard2.0\Raimun.DataAccessLayer.pdb
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\obj\Debug\netstandard2.0\Raimun.DataAccessLayer.dll
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\obj\Debug\netstandard2.0\Raimun.DataAccessLayer.pdb
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\obj\Debug\netstandard2.0\Raimun.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Mozhgan\source\repos\Raimun\Raimun.DataAccessLayer\obj\Debug\netstandard2.0\Raimun.DataAccessLayer.csproj.CoreCompileInputs.cache
