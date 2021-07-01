@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Raimun\\Raimun.DataAccessLayer\\Raimun.DataAccessLayer.csproj": {}
+    "C:\\Users\\Mozhgan\\source\\repos\\Raimun\\Raimun.DataAccessLayer\\Raimun.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Raimun\\Raimun.DataAccessLayer\\Raimun.DataAccessLayer.csproj": {
+    "C:\\Users\\Mozhgan\\source\\repos\\Raimun\\Raimun.DataAccessLayer\\Raimun.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Raimun\\Raimun.DataAccessLayer\\Raimun.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Mozhgan\\source\\repos\\Raimun\\Raimun.DataAccessLayer\\Raimun.DataAccessLayer.csproj",
         "projectName": "Raimun.DataAccessLayer",
-        "projectPath": "C:\\Raimun\\Raimun.DataAccessLayer\\Raimun.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\Mozhgan\\source\\repos\\Raimun\\Raimun.DataAccessLayer\\Raimun.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Mozhgan\\.nuget\\packages\\",
-        "outputPath": "C:\\Raimun\\Raimun.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Mozhgan\\source\\repos\\Raimun\\Raimun.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
